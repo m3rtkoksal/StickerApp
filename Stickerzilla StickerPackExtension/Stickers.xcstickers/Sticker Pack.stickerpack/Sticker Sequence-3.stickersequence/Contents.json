@@ -1,0 +1,31 @@
+{
+  "frames" : [
+    {
+      "filename" : "chest1.png"
+    },
+    {
+      "filename" : "chest2.png"
+    },
+    {
+      "filename" : "chest3.png"
+    },
+    {
+      "filename" : "chest4.png"
+    },
+    {
+      "filename" : "chest5.png"
+    },
+    {
+      "filename" : "chest6.png"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "duration" : 15,
+    "duration-type" : "fps",
+    "repetitions" : 0
+  }
+}
